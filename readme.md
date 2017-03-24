@@ -5,6 +5,8 @@ This is my first project using Processing x Java. I plan to extend this into a m
 “The year is 60 million BCE. You are ‘Trent,’ the heroic pterodactyl who remains last of its kind. Dodge the fiery meteors which rain down as you wander through the pre-historic skies.”
 —
 
+Gameplay preview: https://cl.ly/jgYa
+
 // Run Instructions:
 
 1. Download Processing: https://processing.org/download/
