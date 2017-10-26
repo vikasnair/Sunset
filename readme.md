@@ -1,6 +1,6 @@
 # Sunset
 
-This is my first project using Processing x Java. I plan to extend this into a more fun, more “playable” game outside Processing. Think of this as a model of sorts.
+This is my first project using Processing x Java. A barebones model for what will become an iOS game in the coming months.
 
 “The year is 60 million BCE. You are ‘Trent,’ the heroic pterodactyl who remains last of its kind. Dodge the fiery meteors which rain down as you wander through the pre-historic skies.”
 
