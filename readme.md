@@ -6,10 +6,6 @@ This is my first project using Processing x Java. A barebones model for what wil
 
 —
 
-![Hero](https://d3vv6lp55qjaqc.cloudfront.net/items/2v3h3l1X1O203L0q3e05/jukebox%20hero.png?X-CloudApp-Visitor-Id=1437757&v=437410dc)
-![Rundown](https://d3vv6lp55qjaqc.cloudfront.net/items/3J3L10223J263H2y3T0a/jukebox%20intro.png?X-CloudApp-Visitor-Id=1437757&v=916327cb)
-![Rundown](https://d3vv6lp55qjaqc.cloudfront.net/items/3J3L10223J263H2y3T0a/jukebox%20intro.png?X-CloudApp-Visitor-Id=1437757&v=916327cb)
-
 // Run Instructions:
 
 1. Download Processing: https://processing.org/download/
