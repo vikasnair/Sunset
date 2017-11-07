@@ -6,6 +6,8 @@ This is my first project using Processing x Java. A barebones model for what wil
 
 —
 
+![Sunset demo gif](https://d3vv6lp55qjaqc.cloudfront.net/items/0u2Q03113b0C453I2O1P/ezgif.com-resize.gif)
+
 // Run Instructions:
 
 1. Download Processing: https://processing.org/download/
